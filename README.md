@@ -47,3 +47,9 @@ Ito na ang panghuli natin, sinta
 Sasamahan nga kita sa dulo...
 
 ![image](https://user-images.githubusercontent.com/122426109/211965493-b7a464d8-0674-432e-9f66-82440eb0d752.png)
+
+![image](https://user-images.githubusercontent.com/122426109/211965760-18682a91-1810-47f7-8543-34102d57dcd8.png)
+
+![image](https://user-images.githubusercontent.com/122426109/211965791-9453c49b-be8d-477b-a6ec-9aa1f2314dc8.png)
+
+
