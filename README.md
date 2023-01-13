@@ -33,6 +33,11 @@ Huwag mo sanang isipin na parang wala lang sa 'kin
 Ang lahat nating pinagsamahan
 Isasayaw kita na para bang
 Ito na ang panghuli natin, sinta
+
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
 'Wag kang mag-alala, 'di kita hahayaang mag-isa
 Sasamahan nga kita sa dulo ng ligaya
 At ang oras ay tumatakbo
