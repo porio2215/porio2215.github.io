@@ -3,6 +3,8 @@
 
 LG **ARROWSMITH**
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pqZejOh_E8c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ![image](https://user-images.githubusercontent.com/122426109/211964155-da5621f2-2023-49b8-b603-c952f0ef5ec1.png)
 
 ***My favorite Anime nyahahahaha***
@@ -33,11 +35,6 @@ Huwag mo sanang isipin na parang wala lang sa 'kin
 Ang lahat nating pinagsamahan
 Isasayaw kita na para bang
 Ito na ang panghuli natin, sinta
-
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
 'Wag kang mag-alala, 'di kita hahayaang mag-isa
 Sasamahan nga kita sa dulo ng ligaya
 At ang oras ay tumatakbo
@@ -57,4 +54,7 @@ Sasamahan nga kita sa dulo...
 
 ![image](https://user-images.githubusercontent.com/122426109/211965791-9453c49b-be8d-477b-a6ec-9aa1f2314dc8.png)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pqZejOh_E8c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
