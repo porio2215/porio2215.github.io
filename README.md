@@ -3,7 +3,7 @@
 
 LG **ARROWSMITH**
 
-![image](https://user-images.githubusercontent.com/122426109/211965760-18682a91-1810-47f7-8543-34102d57dcd8.png)
+![image](https://user-images.githubusercontent.com/122426109/212453585-8c586db2-e57c-4444-b176-746785716c37.png)
 
 | :) | :( |
 | -- | -- |
@@ -11,3 +11,5 @@ LG **ARROWSMITH**
 | :3 | <3 |
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0JXXNGljqupsJaZsgSbMZV?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6Nw6XxOGVgKPOgi8LidyPq?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
